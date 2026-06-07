@@ -1,141 +1,144 @@
 # 👋 Hi, I'm Hashem Mdoukh
 
-### Front-End Engineer | React • Next.js • TypeScript
+<div align="center">
 
-Building scalable, maintainable, and high-performance web applications.
+## **Front-End Engineer | React • Next.js • TypeScript**
+
+### Building scalable, maintainable, and high-performance web applications
+
+</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashem-mdoukh&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/hashem-mdoukh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-mdoukh&show_icons=true&theme=radical&langs_count=8)](https://github.com/hashem-mdoukh)
+
+<div align="center">
+
+**Clean Code. Scalable Architecture. Exceptional User Experience.**
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Front-End Engineer passionate about creating modern digital products that combine exceptional user experiences with clean, scalable architecture.
+I'm a **Front-End Engineer** passionate about creating modern digital products that combine exceptional user experiences with clean, scalable architecture.
 
-My work focuses on building production-ready applications using React, Next.js, and TypeScript while applying modern engineering practices such as modular architecture, design systems, type-safe development, and reusable component patterns.
+My work focuses on building **production-ready applications** using React, Next.js, and TypeScript while applying modern engineering practices:
+- ✅ Modular architecture
+- ✅ Design systems  
+- ✅ Type-safe development
+- ✅ Reusable component patterns
 
-Alongside frontend development, I have hands-on experience building full-stack applications using Node.js, Express.js, and MongoDB.
+Alongside frontend development, I have hands-on experience building **full-stack applications** using Node.js, Express.js, and MongoDB.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend Development
+<div align="center">
 
-* React.js
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* Angular
+### **Frontend Development**
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/) [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 
-### UI Engineering
+### **UI Engineering & Styling**
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![MaterialUI](https://skillicons.dev/icons?i=materialui)](https://mui.com/) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/)
 
-* Tailwind CSS v4
-* Mantine UI
-* Material UI (MUI)
-* CSS Modules
-* Responsive Design
+### **State Management & Data Fetching**
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 
-### State Management & Data Fetching
+### **Backend Development**
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
-* TanStack Query
-* Context API
-* Angular Services
+### **Architecture & Engineering**
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
-### Routing
+### **Tools & DevOps**
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
-* TanStack Router
-* Next.js App Router
-* Angular Router
-
-### Backend Development
-
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* REST APIs
-
-### Architecture & Engineering
-
-* Feature-Based Architecture
-* Monorepo Architecture
-* Turborepo
-* pnpm Workspaces
-* Design Systems
-* Dependency Inversion Principle (DIP)
-* DTO Mapping
-* Feature Flags
-
-### Advanced React Patterns
-
-* Compound Components
-* Headless Components
-* Provider Pattern
-* Higher Order Components (HOC)
-
-### Tools
-
-* Git
-* GitHub
-* Vite
-* VS Code
-* Postman
-* MongoDB Compass
+</div>
 
 ---
 
 ## 🏗 What I Build
 
-* Enterprise Dashboards
-* Admin Panels
-* SaaS Platforms
-* E-Commerce Solutions
-* Full-Stack Web Applications
-* Design Systems
-* Component Libraries
-* Analytics & Data Visualization Interfaces
+| Domain | What I Deliver |
+|--------|---------------|
+| 📊 **Enterprise Solutions** | Dashboards, Admin Panels, Analytics Interfaces |
+| 🚀 **SaaS Platforms** | Scalable web applications for thousands of users |
+| 🛒 **E-Commerce** | Full-featured shopping platforms |
+| 🎨 **Design Systems** | Component libraries & UI frameworks |
+| 🔧 **Full-Stack Apps** | Complete web applications with backend |
+
+---
+
+## 📊 Skills Statistics
+
+<div align="center">
+
+### **Skills by Category**
+
+| Category | Number of Skills |
+|----------|-----------------|
+| Frontend Development | 5 |
+| UI Engineering | 5 |
+| Architecture & Engineering | 8 |
+| Backend Development | 5 |
+| Tools | 6 |
+| State Management | 3 |
+| Routing | 3 |
+| Advanced React Patterns | 4 |
+
+**Total: 39+ Technologies & Patterns**
+
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced Frontend Architecture
-* Scalable Design Systems
-* Performance Optimization
-* Full-Stack Application Design
-* Cloud Deployment Workflows
+- 🎯 Advanced Frontend Architecture
+- 🎯 Scalable Design Systems  
+- 🎯 Performance Optimization
+- 🎯 Full-Stack Application Design
+- 🎯 Cloud Deployment Workflows
 
 ---
 
 ## 🎯 Career Goals
 
-My goal is to contribute to ambitious teams building products that impact thousands of users while continuously growing as a software engineer and architecture-focused frontend developer.
+My goal is to contribute to ambitious teams building products that impact **thousands of users** while continuously growing as a software engineer and architecture-focused frontend developer.
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [mr.mdoukh@gmail.com](mailto:mr.mdoukh@gmail.com)
+<div align="center">
 
-💼 LinkedIn: linkedin.com/in/hashem-mdoukh
+[![Email](https://img.shields.io/badge/Email-mr.mdoukh@gmail.com-%23EA4335?style=for-the-badge&logo=gmail)](mailto:mr.mdoukh@gmailcom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hashem-mdoukh-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hashem-mdoukh)
+[![GitHub](https://img.shields.io/badge/GitHub-hashem-mdoukh-%23181717?style=for-the-badge&logo=github)](https://github.com/hashem-mdoukh)
 
-🐙 GitHub: github.com/hashem-mdoukh
+</div>
 
 ---
 
-> Clean Code. Scalable Architecture. Exceptional User Experience.
+## ⭐ GitHub Stats
 
+<div align="center">
 
-<!--
-**hashem-mdoukh/hashem-mdoukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Metric | Badge |
+|--------|-------|
+| **Repositories** | [![GitHub Repos](https://img.shields.io/github/repo-count/hashem-mdoukh?style=for-the-badge&logo=github)](https://github.com/hashem-mdoukh?tab=repositories) |
+| **Followers** | [![GitHub Followers](https://img.shields.io/github/followers/hashem-mdoukh?style=for-the-badge&logo=github)](https://github.com/hashem-mdoukh) |
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+### **Made with ❤️ by Hashem Mdoukh**
+
+🇵🇸 Based in Nablus, West Bank
+
+</div>
