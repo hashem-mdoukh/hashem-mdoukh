@@ -2,18 +2,11 @@
 
 <div align="center">
 
-## **Front-End Engineer | React • Next.js • TypeScript**
+### Front-End Engineer | React • Next.js • TypeScript
 
-### Building scalable, maintainable, and high-performance web applications
+> Building scalable, maintainable, and high-performance web applications.
 
-</div>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashem-mdoukh&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/hashem-mdoukh)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-mdoukh&show_icons=true&theme=radical&langs_count=8)](https://github.com/hashem-mdoukh)
-
-<div align="center">
-
-**Clean Code. Scalable Architecture. Exceptional User Experience.**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Front-End+Engineer;React+Developer;Next.js+Specialist;TypeScript+Expert;UI+Architect)
 
 </div>
 
@@ -23,122 +16,106 @@
 
 I'm a **Front-End Engineer** passionate about creating modern digital products that combine exceptional user experiences with clean, scalable architecture.
 
-My work focuses on building **production-ready applications** using React, Next.js, and TypeScript while applying modern engineering practices:
-- ✅ Modular architecture
-- ✅ Design systems  
-- ✅ Type-safe development
-- ✅ Reusable component patterns
-
-Alongside frontend development, I have hands-on experience building **full-stack applications** using Node.js, Express.js, and MongoDB.
+- 🔭 Building production-grade apps with **React**, **Next.js** & **TypeScript**
+- 🏗 Designing scalable **monorepo architectures** with Turborepo & pnpm Workspaces
+- 🧩 Applying advanced patterns: **Compound Components**, **Headless Components**, **DIP + DTO mapping**
+- 🌍 Based in **Palestine** | Open to **remote & international opportunities**
+- 📫 Reach me at **mr.mdoukh@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine_UI-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+
+### State & Routing
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-F59E0B?style=for-the-badge&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Architecture & Tooling
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ResuMax — SaaS Resume Builder
+> Next.js 15 · Tailwind CSS v4 · Framer Motion · Bilingual AR/EN
+
+Bilingual Arabic/English resume builder SaaS with 3D animations, Framer Motion transitions, and full dark/light mode support. Resolved Tailwind CSS v4 dynamic class compatibility using inline styles.
+
+### GitHub Animated README
+> SVG Animation · Canvas API · Markdown
+
+Fully animated GitHub profile with starfield canvas background, skill bars, tech stack badges, and an experience timeline — all in pure Markdown and SVG.
+
+### Analytics Dashboard
+> React · TanStack Query · Recharts
+
+Interactive data visualization dashboard with real-time charts, filterable tables, and a fully modular component architecture.
+
+### Notification System (Kumrat Al-Saada)
+> Angular · RxJS · Design Tokens
+
+End-to-end notification architecture with Angular services, event-driven data binding, and a unified application-wide design token system.
+
+---
+
+## 🧠 Engineering Patterns
+
+| Pattern | Description |
+|---|---|
+| 🧩 **Feature-Based Architecture** | Domain-isolated modules with views, hooks, APIs & services |
+| 🏗 **Monorepo (Turborepo + pnpm)** | Shared Design System packages across multiple apps |
+| 🔄 **Compound Components** | Implicit state sharing via Context for composable UI |
+| 🧠 **Headless Components** | Logic-only hooks with consumer-controlled rendering |
+| 🔌 **DIP + DTO Mapping** | TypeScript interfaces decoupling UI from API details |
+| 🚩 **Feature Flags** | Context-based system for remote rollouts & A/B testing |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-### **Frontend Development**
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/) [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
-
-### **UI Engineering & Styling**
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/) [![MaterialUI](https://skillicons.dev/icons?i=materialui)](https://mui.com/) [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/) [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/)
-
-### **State Management & Data Fetching**
-[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
-
-### **Backend Development**
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-
-### **Architecture & Engineering**
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-
-### **Tools & DevOps**
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashem-mdoukh&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-mdoukh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🏗 What I Build
-
-| Domain | What I Deliver |
-|--------|---------------|
-| 📊 **Enterprise Solutions** | Dashboards, Admin Panels, Analytics Interfaces |
-| 🚀 **SaaS Platforms** | Scalable web applications for thousands of users |
-| 🛒 **E-Commerce** | Full-featured shopping platforms |
-| 🎨 **Design Systems** | Component libraries & UI frameworks |
-| 🔧 **Full-Stack Apps** | Complete web applications with backend |
-
----
-
-## 📊 Skills Statistics
-
-<div align="center">
-
-### **Skills by Category**
-
-| Category | Number of Skills |
-|----------|-----------------|
-| Frontend Development | 5 |
-| UI Engineering | 5 |
-| Architecture & Engineering | 8 |
-| Backend Development | 5 |
-| Tools | 6 |
-| State Management | 3 |
-| Routing | 3 |
-| Advanced React Patterns | 4 |
-
-**Total: 39+ Technologies & Patterns**
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-- 🎯 Advanced Frontend Architecture
-- 🎯 Scalable Design Systems  
-- 🎯 Performance Optimization
-- 🎯 Full-Stack Application Design
-- 🎯 Cloud Deployment Workflows
-
----
-
-## 🎯 Career Goals
-
-My goal is to contribute to ambitious teams building products that impact **thousands of users** while continuously growing as a software engineer and architecture-focused frontend developer.
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-mr.mdoukh@gmail.com-%23EA4335?style=for-the-badge&logo=gmail)](mailto:mr.mdoukh@gmailcom)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hashem-mdoukh-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/hashem-mdoukh)
-[![GitHub](https://img.shields.io/badge/GitHub-hashem-mdoukh-%23181717?style=for-the-badge&logo=github)](https://github.com/hashem-mdoukh)
-
-</div>
-
----
-
-## ⭐ GitHub Stats
-
-<div align="center">
-
-| Metric | Badge |
-|--------|-------|
-| **Repositories** | [![GitHub Repos](https://img.shields.io/github/repo-count/hashem-mdoukh?style=for-the-badge&logo=github)](https://github.com/hashem-mdoukh?tab=repositories) |
-| **Followers** | [![GitHub Followers](https://img.shields.io/github/followers/hashem-mdoukh?style=for-the-badge&logo=github)](https://github.com/hashem-mdoukh) |
-
-</div>
+[![Email](https://img.shields.io/badge/Email-mr.mdoukh@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.mdoukh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hashem--mdoukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashem-mdoukh)
+[![GitHub](https://img.shields.io/badge/GitHub-hashem--mdoukh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashem-mdoukh)
 
 ---
 
 <div align="center">
 
-### **Made with ❤️ by Hashem Mdoukh**
+*Clean Code · Scalable Architecture · Exceptional User Experience*
 
-🇵🇸 Based in Nablus, West Bank
+✦ Open to remote & international opportunities ✦
 
 </div>
