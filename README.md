@@ -19,7 +19,6 @@ I'm a **Front-End Engineer** passionate about creating modern digital products t
 - 🔭 Building production-grade apps with **React**, **Next.js** & **TypeScript**
 - 🏗 Designing scalable **monorepo architectures** with Turborepo & pnpm Workspaces
 - 🧩 Applying advanced patterns: **Compound Components**, **Headless Components**, **DIP + DTO mapping**
-- 🌍 Based in **Palestine** | Open to **remote & international opportunities**
 - 📫 Reach me at **mr.mdoukh@gmail.com**
 
 ---
@@ -53,32 +52,6 @@ I'm a **Front-End Engineer** passionate about creating modern digital products t
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### ResuMax — SaaS Resume Builder
-> Next.js 15 · Tailwind CSS v4 · Framer Motion · Bilingual AR/EN
-
-Bilingual Arabic/English resume builder SaaS with 3D animations, Framer Motion transitions, and full dark/light mode support. Resolved Tailwind CSS v4 dynamic class compatibility using inline styles.
-
-### GitHub Animated README
-> SVG Animation · Canvas API · Markdown
-
-Fully animated GitHub profile with starfield canvas background, skill bars, tech stack badges, and an experience timeline — all in pure Markdown and SVG.
-
-### Analytics Dashboard
-> React · TanStack Query · Recharts
-
-Interactive data visualization dashboard with real-time charts, filterable tables, and a fully modular component architecture.
-
-### Notification System (Kumrat Al-Saada)
-> Angular · RxJS · Design Tokens
-
-End-to-end notification architecture with Angular services, event-driven data binding, and a unified application-wide design token system.
-
----
 
 ## 🧠 Engineering Patterns
 
